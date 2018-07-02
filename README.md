@@ -16,7 +16,7 @@ Download the [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road
 
 ### Start
 ##### Implement
-Implement the code in the `main.py` module indicated by the "TODO" comments.
+Implement the code in the `main.py.bak` module indicated by the "TODO" comments.
 The comments indicated with "OPTIONAL" tag are not required to complete.
 ##### Run
 Run the following command to run the project:
